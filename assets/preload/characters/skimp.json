@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "skimp left"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "skimp right"
+		},
+		{
+			"offsets": [
+				-2,
+				-63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "skimp down"
+		},
+		{
+			"offsets": [
+				6,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "skimp up"
+		},
+		{
+			"offsets": [
+				-8,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "skimp idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skimp",
+	"position": [
+		0,
+		240
+	],
+	"healthicon": "skimp",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		215,
+		120
+	],
+	"camera_position": [
+		60,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

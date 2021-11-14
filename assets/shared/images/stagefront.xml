@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stagefront light0000.png"><SubTexture name="stagefront light10000" x="0" y="0" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+<SubTexture name="stagefront light0001" x="2564" y="0" width="2564" height="585" frameX="0" frameY="0" frameWidth="2564" frameHeight="585" />
+</TextureAtlas>

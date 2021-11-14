@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Spooked", "skimp", [34, 51, 68]],
+		["Dirty South", "skimp", [34, 51, 68]]
+	],
+
+	"weekCharacters": [
+		"skimp",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "halloween",
+
+	"storyName": "spooky type beat",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

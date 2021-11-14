@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skimp.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="skimp down0000" x="0" y="0" width="422" height="466"/>
+	<SubTexture name="skimp down0001" x="0" y="0" width="422" height="466"/>
+	<SubTexture name="skimp down0002" x="522" y="0" width="422" height="466"/>
+	<SubTexture name="skimp down0003" x="522" y="0" width="422" height="466"/>
+	<SubTexture name="skimp down0004" x="522" y="0" width="422" height="466"/>
+	<SubTexture name="skimp down0005" x="522" y="0" width="422" height="466"/>
+	<SubTexture name="skimp idle0000" x="1044" y="0" width="425" height="498"/>
+	<SubTexture name="skimp idle0001" x="1044" y="0" width="425" height="498"/>
+	<SubTexture name="skimp idle0002" x="1569" y="0" width="425" height="498"/>
+	<SubTexture name="skimp idle0003" x="1569" y="0" width="425" height="498"/>
+	<SubTexture name="skimp idle0004" x="2094" y="0" width="425" height="498"/>
+	<SubTexture name="skimp idle0005" x="2094" y="0" width="425" height="498"/>
+	<SubTexture name="skimp idle0006" x="2619" y="0" width="425" height="498"/>
+	<SubTexture name="skimp idle0007" x="2619" y="0" width="425" height="498"/>
+	<SubTexture name="skimp idle0008" x="2619" y="0" width="425" height="498"/>
+	<SubTexture name="skimp idle0009" x="2619" y="0" width="425" height="498"/>
+	<SubTexture name="skimp idle0010" x="2619" y="0" width="425" height="498"/>
+	<SubTexture name="skimp idle0011" x="2619" y="0" width="425" height="498"/>
+	<SubTexture name="skimp idle0012" x="3144" y="0" width="425" height="498"/>
+	<SubTexture name="skimp idle0013" x="3144" y="0" width="425" height="498"/>
+	<SubTexture name="skimp left0000" x="3669" y="0" width="420" height="512"/>
+	<SubTexture name="skimp left0001" x="3669" y="0" width="420" height="512"/>
+	<SubTexture name="skimp left0002" x="0" y="612" width="420" height="512"/>
+	<SubTexture name="skimp left0003" x="0" y="612" width="420" height="512"/>
+	<SubTexture name="skimp left0004" x="0" y="612" width="420" height="512"/>
+	<SubTexture name="skimp left0005" x="0" y="612" width="420" height="512"/>
+	<SubTexture name="skimp left0006" x="0" y="612" width="420" height="512"/>
+	<SubTexture name="skimp left0007" x="0" y="612" width="420" height="512"/>
+	<SubTexture name="skimp left0008" x="0" y="612" width="420" height="512"/>
+	<SubTexture name="skimp left0009" x="0" y="612" width="420" height="512"/>
+	<SubTexture name="skimp left0010" x="0" y="612" width="420" height="512"/>
+	<SubTexture name="skimp left0011" x="0" y="612" width="420" height="512"/>
+	<SubTexture name="skimp left0012" x="0" y="612" width="420" height="512"/>
+	<SubTexture name="skimp left0013" x="0" y="612" width="420" height="512"/>
+	<SubTexture name="skimp right0000" x="520" y="612" width="432" height="522"/>
+	<SubTexture name="skimp right0001" x="520" y="612" width="432" height="522"/>
+	<SubTexture name="skimp right0002" x="1052" y="612" width="432" height="522"/>
+	<SubTexture name="skimp right0003" x="1052" y="612" width="432" height="522"/>
+	<SubTexture name="skimp right0004" x="1052" y="612" width="432" height="522"/>
+	<SubTexture name="skimp up0000" x="1584" y="612" width="405" height="572"/>
+	<SubTexture name="skimp up0001" x="1584" y="612" width="405" height="572"/>
+	<SubTexture name="skimp up0002" x="2089" y="612" width="405" height="572"/>
+	<SubTexture name="skimp up0003" x="2089" y="612" width="405" height="572"/>
+	<SubTexture name="skimp up0004" x="2089" y="612" width="405" height="572"/>
+	<SubTexture name="skimp up0005" x="2089" y="612" width="405" height="572"/>
+</TextureAtlas>

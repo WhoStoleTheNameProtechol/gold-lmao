@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Pecan", "pecan", [148, 22, 83]],
+		["Philly Mean", "pecan", [148, 22, 83]]
+
+	],
+
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "philly",
+
+	"storyName": "PECAN",
+	"weekBefore": "week2",
+	"weekName": "Week 3",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

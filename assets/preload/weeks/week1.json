@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Boppin Boops", "bro", [146, 113, 253]],
+		["Fresh", "bro", [146, 113, 253]],
+		["Brotherbattle", "bro", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"bro",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "bromance level 100",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
